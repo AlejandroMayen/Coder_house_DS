@@ -9707,4 +9707,4 @@ ID,Gender,Own_car,Own_property,Work_phone,Phone,Email,Unemployed,Num_children,Nu
 5149055,0,0,1,1,1,0,0,0,2,19,112500.0,43.360233269676996,7.375921476827039,Commercial associate,Secondary / secondary special,Married,House / apartment,Other,1
 5149729,1,1,1,0,0,0,0,0,2,21,90000.0,52.29676174048748,4.711937959027222,Working,Secondary / secondary special,Married,House / apartment,Other,1
 5149838,0,0,1,0,1,1,0,0,2,32,157500.0,33.91445409556664,3.6277267842597727,Pensioner,Higher education,Married,House / apartment,Medicine staff,1
-5150337,1,0,1,0,0,0,0,0,1,13,112500.0,25.155889580210406,3.2663230593372896,Working,Secondary / secondary special,Single / not married,Rented apartment,Laborers,1
+5150337,1,0,1,0,0,0,0,0,1,13,112500.0,25.155889580210406,3.2663230593372896,Working,Secondary / secondary special,Single / not married,Rented apartment,Laborers,0
